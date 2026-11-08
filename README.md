@@ -29,7 +29,7 @@ A página é dividida em três seções, cada uma com três itens ilustrados por
 ---
 # Link de Acesso ao Site
 
-
+https://barbaraoliveiraa.github.io/MeuPortaldeEntreterimentoDigital/
 
 ---
 
