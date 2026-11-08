@@ -47,7 +47,8 @@ img{
     border-radius: 8px;
     padding: 6px 12px;
     box-sizing: border-box;
-    min-height: 200px;
+    height: 8em;
+    min-height: 5em;
 }
 
 /* Estilização dos títulos de cada seção */
